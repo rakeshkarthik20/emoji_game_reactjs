@@ -1,5 +1,3 @@
-My [Emoji_Game_project_website_link](https://gaddiemojigame.ccbp.tech/)
-
 In this project, let's build an **Emoji Game** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
